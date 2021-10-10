@@ -7,6 +7,7 @@
 
 #include "vector"
 #include "BookKamenshchikov.h"
+#include <iostream>
 
 
 class BookStoreKamenshchikov {
@@ -14,9 +15,8 @@ class BookStoreKamenshchikov {
 
 
 public:
-    BookStoreKamenshchikov();
+//    ~BookStoreKamenshchikov();
 
-    ~BookStoreKamenshchikov();
     void addBook();
 
     void printBookList();

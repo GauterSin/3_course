@@ -22,7 +22,7 @@ public:
     void bookAddFromTerminal();
 
     void bookReturnToTerminal();
-
+    ~BookKamenshchikov();
 
     void bookReturnToFile(fstream &stream);
 

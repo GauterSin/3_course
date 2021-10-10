@@ -43,3 +43,8 @@ void BookKamenshchikov::bookReturnToFile(fstream &stream) {
            << this->price << endl;
 
 };
+
+BookKamenshchikov::~BookKamenshchikov() {
+    delete book;
+    std::cout << "Memory has been cleaned. Good bye." << std::endl;
+}

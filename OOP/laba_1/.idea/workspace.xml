@@ -12,11 +12,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37bdbbf3-ef27-4e5a-b664-bc6226d4a5d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../laba_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/.idea/laba_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookKamenshchikov.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BookKamenshchikov.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookKamenshchikov.h" beforeDir="false" afterPath="$PROJECT_DIR$/BookKamenshchikov.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookStoreKamenshchikov.h" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreKamenshchikov.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookKamenshchikov.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookKamenshchikov.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/laba_1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/laba_1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,14 +85,14 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="laba_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="laba_1" TARGET_NAME="laba_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="laba_1" RUN_TARGET_NAME="laba_1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="laba_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="laba_1" TARGET_NAME="laba_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="laba_1" RUN_TARGET_NAME="laba_1">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -84,7 +106,9 @@
       <updated>1633861680029</updated>
       <workItem from="1633861684596" duration="11476000" />
       <workItem from="1633879176361" duration="30000" />
-      <workItem from="1633886485416" duration="664000" />
+      <workItem from="1633886485416" duration="929000" />
+      <workItem from="1633887536313" duration="18000" />
+      <workItem from="1633887663819" duration="1335000" />
     </task>
     <servers />
   </component>
