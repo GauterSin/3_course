@@ -45,5 +45,5 @@ void BookKamenshchikov::bookReturnToFile(fstream &stream) {
 };
 
 BookKamenshchikov::~BookKamenshchikov() {
-    std::cout << "Memory has been cleaned. Good bye." << std::endl;
+    std::cout << "Memory has been cleaned." << std::endl;
 }

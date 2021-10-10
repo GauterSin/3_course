@@ -13,10 +13,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37bdbbf3-ef27-4e5a-b664-bc6226d4a5d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookKamenshchikov.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BookKamenshchikov.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookStoreKamenshchikov.h" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreKamenshchikov.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookKamenshchikov.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookKamenshchikov.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" afterDir="false" />
@@ -91,7 +89,7 @@
       <workItem from="1633879176361" duration="30000" />
       <workItem from="1633886485416" duration="929000" />
       <workItem from="1633887536313" duration="18000" />
-      <workItem from="1633887663819" duration="2942000" />
+      <workItem from="1633887663819" duration="3156000" />
     </task>
     <servers />
   </component>

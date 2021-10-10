@@ -6,35 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.cpp
+iostream
+/home/gauter/Learning/University/3_course/OOP/laba_1/iostream
+BookKamenshchikov.h
+/home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.h
+
 /home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.h
 string
 /home/gauter/Learning/University/3_course/OOP/laba_1/string
 fstream
 /home/gauter/Learning/University/3_course/OOP/laba_1/fstream
-
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookStoreKamenshchikov.cpp
-BookStoreKamenshchikov.h
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookStoreKamenshchikov.h
-iostream
--
-BookKamenshchikov.h
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.h
-
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookStoreKamenshchikov.h
-vector
-/home/gauter/Learning/University/3_course/OOP/laba_1/vector
-BookKamenshchikov.h
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.h
-iostream
--
-
-/home/gauter/Learning/University/3_course/OOP/laba_1/main.cpp
-iostream
-/home/gauter/Learning/University/3_course/OOP/laba_1/iostream
-fstream
-/home/gauter/Learning/University/3_course/OOP/laba_1/fstream
-BookKamenshchikov.h
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookKamenshchikov.h
-BookStoreKamenshchikov.h
-/home/gauter/Learning/University/3_course/OOP/laba_1/BookStoreKamenshchikov.h
 
