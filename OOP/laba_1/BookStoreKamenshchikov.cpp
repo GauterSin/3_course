@@ -11,6 +11,10 @@
 using namespace std;
 
 
+BookStoreKamenshchikov::BookStoreKamenshchikov()
+{
+}
+
 void BookStoreKamenshchikov::addBook(){
     BookKamenshchikov *book = new BookKamenshchikov;
     book->bookAddFromTerminal();
@@ -66,7 +70,7 @@ void BookStoreKamenshchikov::writeBookToFile(){
 
 }
 
-//BookStoreKamenshchikov::~BookStoreKamenshchikov() {
-//    for (BookKamenshchikov* book : bookList)
-//        delete book;
-//}
+BookStoreKamenshchikov::~BookStoreKamenshchikov() {
+    for (BookKamenshchikov* book : bookList)
+        delete book;
+}

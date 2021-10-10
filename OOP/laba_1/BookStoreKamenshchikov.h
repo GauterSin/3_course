@@ -15,7 +15,8 @@ class BookStoreKamenshchikov {
 
 
 public:
-//    ~BookStoreKamenshchikov();
+    BookStoreKamenshchikov();
+    ~BookStoreKamenshchikov();
 
     void addBook();
 
