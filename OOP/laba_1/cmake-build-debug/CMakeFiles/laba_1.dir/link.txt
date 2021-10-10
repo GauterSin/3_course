@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/laba_1.dir/main.cpp.o CMakeFiles/laba_1.dir/BookKamenshchikov.cpp.o CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o -o laba_1 
