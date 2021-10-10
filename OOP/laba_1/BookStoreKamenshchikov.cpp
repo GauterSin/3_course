@@ -38,7 +38,7 @@ void BookStoreKamenshchikov::clearBookList(){
 void BookStoreKamenshchikov::addBookFromFile(){
     fstream inFile;
     string fileName;
-    cout << "Please enter the file name:" << endl;
+    cout << "Enter the file name:" << endl;
     cin >> fileName;
 //    inFile.open(fileName+".txt", fstream::in);
     inFile.open(fileName+".txt");
@@ -58,7 +58,7 @@ void BookStoreKamenshchikov::writeBookToFile(){
 
     fstream outFile;
     string fileName;
-    cout << "Please enter the file name:" << endl;
+    cout << "Enter the file name:" << endl;
     cin >> fileName;
     outFile.open(fileName+".txt", fstream::out);
     outFile << bookList.size()<<endl;

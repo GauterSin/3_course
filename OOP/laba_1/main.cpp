@@ -10,9 +10,9 @@ using namespace std;
 void MainMenu()
 {
     cout << "1. Add book in book list." << endl
-         << "2. Print book list on display." << endl
+         << "2. Print book list." << endl
          << "3. Load book list from file." << endl
-         << "4. Save book list in file." << endl
+         << "4. Upload book list in file." << endl
          << "5. Clear book list." << endl
          << "0. Exit." << endl
          << "Enter the code menu:" << endl;
