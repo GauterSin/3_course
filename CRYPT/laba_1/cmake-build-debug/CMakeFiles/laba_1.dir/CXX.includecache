@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gauter/Learning/University/3_course/CRYPT/laba_1/CryptEncrypt.h
+iostream
+-
+string
+-
+fstream
+-
+
+/home/gauter/Learning/University/3_course/CRYPT/laba_1/main.cpp
+iostream
+/home/gauter/Learning/University/3_course/CRYPT/laba_1/iostream
+string
+/home/gauter/Learning/University/3_course/CRYPT/laba_1/string
+CryptEncrypt.h
+/home/gauter/Learning/University/3_course/CRYPT/laba_1/CryptEncrypt.h
+
