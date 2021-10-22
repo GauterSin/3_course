@@ -12,17 +12,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37bdbbf3-ef27-4e5a-b664-bc6226d4a5d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookKamenshchikov.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookKamenshchikov.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookKamenshchikovRating.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookKamenshchikovRating.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookStoreKamenshchikov.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laba_2/BookStoreKamenshchikov.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CRYPT/laba_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BookStoreKamenshchikov.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/BookStoreKamenshchikov.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/laba_1.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/laba_1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/laba_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/laba_2" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/laba_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/cmake-build-debug/laba_2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/cmake-build-debug/laba_2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_2/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +77,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba_2" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -94,7 +112,9 @@
       <workItem from="1633887536313" duration="18000" />
       <workItem from="1633887663819" duration="3192000" />
       <workItem from="1633892071581" duration="335000" />
-      <workItem from="1633895444933" duration="347000" />
+      <workItem from="1633895444933" duration="642000" />
+      <workItem from="1633896214931" duration="246000" />
+      <workItem from="1633936691058" duration="1184000" />
     </task>
     <servers />
   </component>

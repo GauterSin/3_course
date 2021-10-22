@@ -6,7 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/home/gauter/Learning/University/3_course/OOP/laba_2/main.cpp
+/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.h
+string
+/home/gauter/Learning/University/3_course/OOP/laba_2/string
+fstream
+/home/gauter/Learning/University/3_course/OOP/laba_2/fstream
+
+/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp
+string
+/home/gauter/Learning/University/3_course/OOP/laba_2/string
+fstream
+/home/gauter/Learning/University/3_course/OOP/laba_2/fstream
+BookKamenshchikovRating.h
+/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.h
 iostream
 -
+
+/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.h
+string
+/home/gauter/Learning/University/3_course/OOP/laba_2/string
+fstream
+/home/gauter/Learning/University/3_course/OOP/laba_2/fstream
+BookKamenshchikov.h
+/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.h
 

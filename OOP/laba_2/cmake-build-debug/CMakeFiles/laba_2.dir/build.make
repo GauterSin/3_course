@@ -79,17 +79,62 @@ CMakeFiles/laba_2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gauter/Learning/University/3_course/OOP/laba_2/main.cpp -o CMakeFiles/laba_2.dir/main.cpp.s
 
+CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o: ../BookKamenshchikov.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o -c /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.cpp
+
+CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.cpp > CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.i
+
+CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.cpp -o CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.s
+
+CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o: ../BookStoreKamenshchikov.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o -c /home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.cpp
+
+CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.cpp > CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.i
+
+CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.cpp -o CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.s
+
+CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o: CMakeFiles/laba_2.dir/flags.make
+CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o: ../BookKamenshchikovRating.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o -c /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp
+
+CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp > CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.i
+
+CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp -o CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.s
+
 # Object files for target laba_2
 laba_2_OBJECTS = \
-"CMakeFiles/laba_2.dir/main.cpp.o"
+"CMakeFiles/laba_2.dir/main.cpp.o" \
+"CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o" \
+"CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o" \
+"CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o"
 
 # External object files for target laba_2
 laba_2_EXTERNAL_OBJECTS =
 
 laba_2: CMakeFiles/laba_2.dir/main.cpp.o
+laba_2: CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o
+laba_2: CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o
+laba_2: CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o
 laba_2: CMakeFiles/laba_2.dir/build.make
 laba_2: CMakeFiles/laba_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable laba_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable laba_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/laba_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

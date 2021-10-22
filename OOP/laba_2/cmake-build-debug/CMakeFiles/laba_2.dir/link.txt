@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/laba_2.dir/main.cpp.o -o laba_2 
+/usr/bin/c++ -g CMakeFiles/laba_2.dir/main.cpp.o CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o -o laba_2 

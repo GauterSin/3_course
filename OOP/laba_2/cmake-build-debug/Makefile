@@ -129,6 +129,78 @@ laba_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/build
 .PHONY : laba_2/fast
 
+BookKamenshchikov.o: BookKamenshchikov.cpp.o
+.PHONY : BookKamenshchikov.o
+
+# target to build an object file
+BookKamenshchikov.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o
+.PHONY : BookKamenshchikov.cpp.o
+
+BookKamenshchikov.i: BookKamenshchikov.cpp.i
+.PHONY : BookKamenshchikov.i
+
+# target to preprocess a source file
+BookKamenshchikov.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.i
+.PHONY : BookKamenshchikov.cpp.i
+
+BookKamenshchikov.s: BookKamenshchikov.cpp.s
+.PHONY : BookKamenshchikov.s
+
+# target to generate assembly for a file
+BookKamenshchikov.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.s
+.PHONY : BookKamenshchikov.cpp.s
+
+BookKamenshchikovRating.o: BookKamenshchikovRating.cpp.o
+.PHONY : BookKamenshchikovRating.o
+
+# target to build an object file
+BookKamenshchikovRating.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o
+.PHONY : BookKamenshchikovRating.cpp.o
+
+BookKamenshchikovRating.i: BookKamenshchikovRating.cpp.i
+.PHONY : BookKamenshchikovRating.i
+
+# target to preprocess a source file
+BookKamenshchikovRating.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.i
+.PHONY : BookKamenshchikovRating.cpp.i
+
+BookKamenshchikovRating.s: BookKamenshchikovRating.cpp.s
+.PHONY : BookKamenshchikovRating.s
+
+# target to generate assembly for a file
+BookKamenshchikovRating.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.s
+.PHONY : BookKamenshchikovRating.cpp.s
+
+BookStoreKamenshchikov.o: BookStoreKamenshchikov.cpp.o
+.PHONY : BookStoreKamenshchikov.o
+
+# target to build an object file
+BookStoreKamenshchikov.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o
+.PHONY : BookStoreKamenshchikov.cpp.o
+
+BookStoreKamenshchikov.i: BookStoreKamenshchikov.cpp.i
+.PHONY : BookStoreKamenshchikov.i
+
+# target to preprocess a source file
+BookStoreKamenshchikov.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.i
+.PHONY : BookStoreKamenshchikov.cpp.i
+
+BookStoreKamenshchikov.s: BookStoreKamenshchikov.cpp.s
+.PHONY : BookStoreKamenshchikov.s
+
+# target to generate assembly for a file
+BookStoreKamenshchikov.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/laba_2.dir/build.make CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.s
+.PHONY : BookStoreKamenshchikov.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +234,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... laba_2"
+	@echo "... BookKamenshchikov.o"
+	@echo "... BookKamenshchikov.i"
+	@echo "... BookKamenshchikov.s"
+	@echo "... BookKamenshchikovRating.o"
+	@echo "... BookKamenshchikovRating.i"
+	@echo "... BookKamenshchikovRating.s"
+	@echo "... BookStoreKamenshchikov.o"
+	@echo "... BookStoreKamenshchikov.i"
+	@echo "... BookStoreKamenshchikov.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

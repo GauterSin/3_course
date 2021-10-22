@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.cpp" "/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/BookKamenshchikov.cpp.o"
+  "/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp" "/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/BookKamenshchikovRating.cpp.o"
+  "/home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.cpp" "/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/BookStoreKamenshchikov.cpp.o"
   "/home/gauter/Learning/University/3_course/OOP/laba_2/main.cpp" "/home/gauter/Learning/University/3_course/OOP/laba_2/cmake-build-debug/CMakeFiles/laba_2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

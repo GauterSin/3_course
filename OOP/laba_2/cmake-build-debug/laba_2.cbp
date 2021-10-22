@@ -82,6 +82,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikov.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookKamenshchikovRating.h">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.cpp">
+			<Option target="laba_2"/>
+		</Unit>
+		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/BookStoreKamenshchikov.h">
+			<Option target="laba_2"/>
+		</Unit>
 		<Unit filename="/home/gauter/Learning/University/3_course/OOP/laba_2/main.cpp">
 			<Option target="laba_2"/>
 		</Unit>
